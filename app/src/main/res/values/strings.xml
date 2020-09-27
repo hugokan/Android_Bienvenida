@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Tarea Bienvenida</string>
+    <string name="titulo">Bienvenido</string>
+    <string name="bg" translatable="false">Fondo Marcianito</string>
+    <string name="boton_entrar">Entrar</string>
+</resources>
